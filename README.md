@@ -3,3 +3,7 @@
 
 ## Collage
 [Link to Figma Collage] (https://www.figma.com/file/rOs51EiFZZ0A8BrU0vFU9y/Google-Doodle?node-id=0%3A1)
+
+## Resources
+* [Donut icon] (https://iconmonstr.com/candy-9-svg/)
+* [Google Font] ()
