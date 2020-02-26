@@ -10,4 +10,15 @@
   background: #ccc;
   height: 300px;
   width: 600px;
+  positon:relative;
+  
+  overflow:visible;
+  
 }
+
+#donut{
+  position:absolute;
+  right:807px;
+  top:140px;
+}
+

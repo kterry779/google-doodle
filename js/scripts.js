@@ -3,9 +3,9 @@ console.log('OK');
 
 gsap.from( '#donut1', {
     rotate:360,
-    x: -300,
+    x: -200,
   
-    duration: 5,
+    duration: 4,
    
     
   });
