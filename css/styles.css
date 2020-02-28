@@ -18,7 +18,13 @@
 
 #donut{
   position:absolute;
-  right:633px;
-  top:207px;
+  right:696px;
+  top:213px;
+}
+
+#box{
+  position:absolute;
+  right:540px;
+
 }
 
